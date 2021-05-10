@@ -30,6 +30,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 80%;
+  max-width: 1080px;
   margin: 6em auto;
   background-color: var(--card-background);
   border-radius: 10px;
@@ -53,7 +54,7 @@ body {
 }
 
 .card-text-container {
-  width: 85%;
+  width: 80%;
   margin: 2.5em auto;
   display: flex;
   flex-direction: column;
@@ -151,7 +152,7 @@ body {
     margin: 0 auto;
   }
 
-  .card-text-container h1 {
+  .card-text-container h1 https://your-live-site-url.com{
     font-size: 2.2rem;
   }
 
