@@ -63,7 +63,7 @@ body {
 .card-text-container h1 {
   color: var(--main-heading-stats);
   font-family: var(--title-fonts);
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   font-weight: 700;
   text-align: center;
 }
@@ -76,7 +76,7 @@ body {
   color: var(--main-paragraph);
   font-family: var(--paragraph-fonts);
   text-align: center;
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1.7em;
   margin: 2em 0;
 }
@@ -103,7 +103,7 @@ body {
 .stats-col p:last-child {
   color: var(--stat-headings);
   font-family: var(--paragraph-fonts);
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   letter-spacing: 0.1em;
   font-weight: 700;
   text-transform: uppercase;
