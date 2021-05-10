@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-using-flex-kFxS862xe)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://christosmet.github.io/stats-preview-card-component)
 
 ## My process
 
